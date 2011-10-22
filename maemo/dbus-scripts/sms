@@ -1,0 +1,3 @@
+#DBUSV2.
+/usr/local/bin/newMessage.sh * * * Phone.SMS IncomingSegment *
+#     /usr/sbin/savepress.sh * * * org.freedesktop.Hal.Device Condition ButtonPressed cover
